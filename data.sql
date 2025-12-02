@@ -1,0 +1,2 @@
+INSERT INTO persons (id, first_name, last_name, email) VALUES (1, 'Ada', 'Lovelace', 'ada@example.com');
+INSERT INTO persons (id, first_name, last_name, email) VALUES (2, 'Alan', 'Turing', 'alan@example.com');

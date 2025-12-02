@@ -1,0 +1,17 @@
+# Maven / Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
